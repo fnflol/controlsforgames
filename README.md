@@ -1,2 +1,0 @@
-# controlsforgames
-list
